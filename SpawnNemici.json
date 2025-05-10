@@ -1,0 +1,28 @@
+{
+  "poi": [
+    {
+      "name": "Praticelli",
+      "latitude": 43.71887145732741,
+      "longitude":  10.427386007189513,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "Troll", "quantity": 1 },
+        { "prefabName": "Goblin", "quantity": 3 },
+        { "prefabName": "Store", "quantity": 1 }
+      ]
+    },
+    {
+      "name": "Piazza San Marco",
+      "latitude": 43.7711,
+      "longitude": 11.2531,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "Scheletro", "quantity": 2 }
+      ]
+    }
+  ]
+}
+
+
+
+
