@@ -8,20 +8,24 @@
       "spawns": [
         { "prefabName": "Troll", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 3 },
-        { "prefabName": "Store", "quantity": 1 }
+        { "prefabName": "Goblin", "quantity": 1 }
       ]
     },
     {
-      "name": "Piazza San Marco",
-      "latitude": 43.7711,
-      "longitude": 11.2531,
+      "name": "Lilla2",
+      "latitude": 43.71902344775172,
+      "longitude": 10.426001327575728,
       "spawnType": "exact",
       "spawns": [
-        { "prefabName": "Scheletro", "quantity": 2 }
+        { "prefabName": "Troll", "quantity": 1 },
+        { "prefabName": "Goblin", "quantity": 3 },
+        { "prefabName": "Goblin", "quantity": 1 }
       ]
     }
   ]
 }
+
+
 
 
 
