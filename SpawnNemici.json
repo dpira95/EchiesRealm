@@ -7,7 +7,7 @@
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
-        { "prefabName": "Goblin", "quantity": 3 },
+        { "prefabName": "Goblin", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 1 }
       ]
     },
@@ -18,7 +18,7 @@
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
-        { "prefabName": "Goblin", "quantity": 3 },
+        { "prefabName": "Goblin", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 1 }
       ]
     }
