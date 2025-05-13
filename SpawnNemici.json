@@ -6,7 +6,7 @@
       "longitude":  10.427386007189513,
       "spawnType": "exact",
       "spawns": [
-        { "prefabName": "Troll", "quantity": 1 },
+        { "prefabName": "TrollBaserotto", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 3 },
         { "prefabName": "Goblin", "quantity": 1 }
       ]
@@ -17,7 +17,7 @@
       "longitude": 10.426001327575728,
       "spawnType": "exact",
       "spawns": [
-        { "prefabName": "Troll", "quantity": 1 },
+        { "prefabName": "TrollBaserotto", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 3 },
         { "prefabName": "Goblin", "quantity": 1 }
       ]
