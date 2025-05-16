@@ -12,9 +12,9 @@
       ]
     },
     {
-      "name": "Lilla2",
-      "latitude": 43.71902344775172,
-      "longitude": 10.426001327575728,
+      "name": "Cavalieri",
+      "latitude": 43.71940546151912,
+      "longitude": 10.400105122835194,         
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
