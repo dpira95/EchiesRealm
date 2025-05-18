@@ -12,9 +12,9 @@
       ]
     },
     {
-      "name": "Cavalieri",
-      "latitude": 43.71940546151912,
-      "longitude": 10.400105122835194,         
+      "name": "Stanza",
+      "latitude": 43.71888269391096,     
+      "longitude": 10.427415158132789,         
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
