@@ -1,9 +1,9 @@
 {
   "poi": [
     {
-      "name": "Praticelli",
-      "latitude": 43.71887145732741,
-      "longitude":  10.427386007189513,
+      "name": "Lilla2Praticelli",
+      "latitude": 43.71898858441515,
+      "longitude":  10.425986785589691,
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
