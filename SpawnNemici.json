@@ -1,7 +1,7 @@
 {
   "poi": [
     {
-      "name": "Lilla2Praticelli",
+      "name": "Stanza",
       "latitude": 43.71898858441515,
       "longitude":  10.425986785589691,
       "spawnType": "exact",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "name": "Stanza0",
+      "name": "Lilla2Praticelli",
       "latitude": 43.71888269391096,     
       "longitude": 10.427415158132789,         
       "spawnType": "exact",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "name": "Stanza",
+      "name": "Stanza0",
       "latitude": 43.71956588587336,
       "longitude": 10.427062934674375,
       "spawnType": "exact",
