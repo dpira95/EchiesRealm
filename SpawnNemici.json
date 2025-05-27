@@ -13,8 +13,8 @@
     },
     {
       "name": "Lilla2Praticelli",
-      "latitude": 43.71888269391096,     
-      "longitude": 10.427415158132789,         
+      "latitude": 43.719038028965194,
+      "longitude": 10.426023500181502,
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
