@@ -12,7 +12,7 @@
       ]
     },
     {
-      "name": "Stanza",
+      "name": "Stanza0",
       "latitude": 43.71888269391096,     
       "longitude": 10.427415158132789,         
       "spawnType": "exact",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "name": "ParcheggioPrati",
+      "name": "Stanza",
       "latitude": 43.71956588587336,
       "longitude": 10.427062934674375,
       "spawnType": "exact",
