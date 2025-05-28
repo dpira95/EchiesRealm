@@ -21,14 +21,15 @@
       ]
     },
     {
-      "name": "Stanza0",
+      "name": "ParcheggioPrati",
       "latitude": 43.71956588587336,
       "longitude": 10.427062934674375,
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 1 },
-        { "prefabName": "Goblin", "quantity": 1 }
+        { "prefabName": "Goblin", "quantity": 1 },
+         { "prefabName": "StoreReadyWithObjects", "quantity": 1 }
       ]
     }
   ]
