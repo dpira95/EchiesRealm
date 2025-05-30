@@ -23,8 +23,8 @@
     },
     {
       "name": "ParcheggioPrati",
-      "latitude": 43.71956588587336,
-      "longitude": 10.427062934674375,
+      "latitude": 43.71955603334484,
+      "longitude": 10.427045059793217,
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 1 },
