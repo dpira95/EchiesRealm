@@ -29,7 +29,8 @@
         { "prefabName": "TrollBaserotto", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 1 },
         { "prefabName": "Goblin", "quantity": 1 },
-         { "prefabName": "StoreReadyWithObjects", "quantity": 1 }
+        { "prefabName": "StoreReadyWithObjects", "quantity": 1 },
+        { "prefabName": "TalpaTest", "quantity": 5 },
       ]
     }
   ]
