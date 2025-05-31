@@ -33,6 +33,66 @@
         { "prefabName": "StoreReadyWithObjects", "quantity": 1 },
         { "prefabName": "TalpaTest", "quantity": 5 }
       ]
+    },
+      {
+      "name": "FontanaCNR",
+      "latitude": 43.71933136084858,       
+      "longitude": 10.419273293168441,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "Goblin", "quantity": 3 } 
+      ]
+    },
+     {
+      "name": "ParcoDonBosco",
+      "latitude":  43.71932221467556,
+      "longitude": 10.413294526752063,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "Goblin", "quantity": 3 }, 
+        { "prefabName": "TrollBaserotto", "quantity": 1 },
+         { "prefabName": "TalpaTest", "quantity": 5 }
+      ]
+    },
+     {
+      "name": "SantaCaterina",
+      "latitude":  43.72030040265639,  
+      "longitude": 10.403597321075198,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "Goblin", "quantity": 2 }, 
+        { "prefabName": "PozioneVita", "quantity": 3 }
+      ]
+    },
+      {
+      "name": "PiazzaGaribaldi",
+      "latitude":  43.72030040265639,  
+      "longitude": 10.403597321075198,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "TrollBaserotto", "quantity": 2 }, 
+        { "prefabName": "DropSack", "quantity": 20 }
+      ]
+    },
+     {
+      "name": "PiazzaDeiCavalieri",
+      "latitude":  43.71938111204414,  
+      "longitude": 10.400107173177437,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "TrollBaserotto", "quantity": 2 }, 
+        { "prefabName": "TalpaTest", "quantity": 4 },
+        { "prefabName": "Goblin", "quantity": 1 }
+      ]
+    },
+      {
+      "name": "PiazzaDante",
+      "latitude":  43.71775584026489,   
+      "longitude": 10.398764753765974,
+      "spawnType": "exact",
+      "spawns": [
+        { "prefabName": "StoreReadyWithObjects", "quantity": 1 }
+      ]
     }
   ]
 }
