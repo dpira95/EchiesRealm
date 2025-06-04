@@ -76,8 +76,8 @@
     },
      {
       "name": "PiazzaDeiCavalieri",
-      "latitude":  43.71938111204414,  
-      "longitude": 10.400107173177437,
+      "latitude":  43.71938531704133,    
+      "longitude": 10.400123802638547,
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "TrollBaserotto", "quantity": 2 }, 
