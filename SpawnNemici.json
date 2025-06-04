@@ -87,8 +87,8 @@
     },
       {
       "name": "PiazzaDante",
-      "latitude":  43.71775584026489,   
-      "longitude": 10.398764753765974,
+      "latitude":  43.71776788169675,
+      "longitude": 10.398764729426903,
       "spawnType": "exact",
       "spawns": [
         { "prefabName": "StoreReadyWithObjects", "quantity": 1 }
